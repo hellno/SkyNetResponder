@@ -1,0 +1,26 @@
+TC PARAMS - SkyNetProject
+----------
+MOTSPD 
+SETYAW 
+SETROT 
+IMUPRD  - // change the IMU refresh period
+LGTPRD  - /* change the LightSensor period */
+IMUINI 
+IMUCAL 
+MOTINI 
+LGTSTP 
+LGTRUN 
+TMSTOP 
+TMSTRT 
+DBGOUT 
+DEBUGG 
+STDNBY 
+ROTMOD 
+COMPAS 
+SUNFIN 
+MISION 
+ANGCSP 
+ANGCSI 
+ANGCSD 
+----------
+22 TC commands supported
